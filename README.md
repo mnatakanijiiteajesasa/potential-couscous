@@ -1,2 +1,3 @@
 # potential-couscous
-A 
+A platform that facilitates offline and online bitcoin microtransactions easily and at low low costs by utilising both the bitcoin core and the Lightining Network Daemon.
+By running multiple nodes, the system facilitates cheap and lightning fast transactions between wallets on-chain and offchain. The complicated operations associated with offchain transactions between wallets in the lightning network are all handled by the backend providing users with efficient transaction with very few clicks. Users can perform this transactions both online and offline which makes it a widely available and efficient bitcoin transaction tool. Offline transactions are supported by a USSD service code while Oon-line transactions are facilitated by a mobile application.
